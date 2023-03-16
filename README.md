@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HanzlaNouman
-- 👀 I’m interested in Web technoologies and android.
+- 👀 I’m interested in Web technologies and android.
 - 🌱 I’m currently learning Backend Development and Servers.
 
 <!---
