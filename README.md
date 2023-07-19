@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HanzlaNouman
 - 👀 I’m interested in Web technologies and android.
-- 🌱 I’m currently learning Backend Development and Servers.
+- 🌱 I’m currently learning Backend development and Cloud.
 
 <!---
 HanzlaNouman/HanzlaNouman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
