@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hanzla Nouman
-- 👀 I’m interested in Web technologies and android.
+- 👀 Currently working with Web & Mobile application.
 - 🌱 I’m currently learning AI and ML.
 - 🙃 Looking for people who can game and code 
 
