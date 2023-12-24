@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hanzla Nouman=====================================================================================================================================Web & Mobile App Developer--------------------------* 🌍  I'm based in Abbottabad, Pakistan* ✉️  You can contact me at [hanzlanouman@gmail.com](mailto:hanzlanouman@gmail.com)* 🚀  I'm currently working on [Societalize and CampuShop](http://#)* 🧠  I'm learning TypeScript & NextJS
+Hi 👋 My name is Hanzla Nouman
+==============================Web & Mobile App Developer--------------------------* 🌍  I'm based in Abbottabad, Pakistan* ✉️  You can contact me at [hanzlanouman@gmail.com](mailto:hanzlanouman@gmail.com)* 🚀  I'm currently working on [Societalize and CampuShop](http://#)* 🧠  I'm learning TypeScript & NextJS
 
 ### Skills
 
