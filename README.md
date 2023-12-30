@@ -6,7 +6,7 @@ Web & Mobile App Developer 💻
 
 *   🌍  I'm based in Abbottabad, Pakistan
 *   ✉️  You can contact me at [hanzlanouman@gmail.com](mailto:hanzlanouman@gmail.com)
-*   🚀  I'm currently working on [Societalize](http://#) and [CampuShop](http://#)
+*   🚀  I'm currently working on [Societalize](https://github.com/hanzlanouman/societalize) and [CampuShop](https://github.com/hanzlanouman/campushop)
 *   🧠  I'm learning TypeScript & NextJS
 
 ### Skills 
