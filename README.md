@@ -6,8 +6,8 @@ Web & Mobile App Developer 💻
 
 *   🌍  I'm based in Abbottabad, Pakistan
 *   ✉️  You can contact me at [hanzlanouman@gmail.com](mailto:hanzlanouman@gmail.com)
-*   🚀  I'm currently working on an AI Assisted LMS
-*   🧠  I'm currently learning GenAI and ML.
+*   🚀  I'm currently working on an [DealershiPro](dealershipro.com)
+*   🧠  I'm currently learning Data Science and ML.
 
 ### Skills 
 <p align="left">
