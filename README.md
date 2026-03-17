@@ -1,54 +1,74 @@
-# Hi! 👋 I'm Hanzla Nouman
+# Hi, I'm Hanzla Nouman 👋
 
-**Full Stack Developer** | **AI-Driven Systems Builder** | **Learning Data Science & ML**
+**Software Engineer | AI Systems Builder | Exploring Data Science, ML, Privacy-Preserving & Distributed AI**
 
----
-
-🎯 I specialize in building intelligent, scalable, and full-stack web systems that solve real-world problems—from AI-powered LMS platforms to dealership automation SaaS and embedded voice agents.
-
-### 🔧 Tech Focus Areas
-- Full Stack Development (Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS)
-- AI & LLM Integration (LangChain, LangGraph, FAISS, OpenAI, Whisper)
-- Multi-tenant SaaS Systems, Embedded Voice Interfaces, and Automation Tools
+I build intelligent software systems across web, AI, and real-world applications. My work spans **full-stack development**, **LLM-powered systems**, **adaptive AI applications**, and **automation tools**, while my growing interests lie in **machine learning**, **privacy-aware intelligence**, **federated learning**, **edge AI**, and **secure real-world deployment**.
 
 ---
 
-### 🧑‍💻 Projects & Work
+## What I Work On
 
-- 🚀 **[DealershipPro](https://www.dealershipro.com)** – AI-powered SaaS for car dealerships  
-  → Inventory-aware chatbot, lead capture, CRM, FB/IG auto-posting, and analytics  
-  → Built with: `Next.js`, `LangGraph.js`, `OpenAI`, `Prisma`, `Drizzle ORM`, `Supabase`
-
-- 🎓 **ClassEdge LMS** – AI-Assisted Learning Management System *(FYP Winner)*  
-  → Features adaptive evaluation, behavioral analytics, topic proficiency tracking, trust-aware personalization  
-  → Stack: `LangChain.js`, `Next.js`, `NestJS`, `FAISS`, `PostgreSQL`, `Supabase`
-
-- 🧠 **BenchMate** – Jetson Nano Voice Agent  
-  → Real-time speech-to-RAG retrieval pipeline with embedded audio processing  
-  → Tech: `Jetson Nano`, `Whisper`, `OpenAI`, `Python`, `CLI + Planned Frontend`
-
-- 🎯 **UniPlanr** – Hobby project to manage scholarship & university applications  
-  → Shared database, deadlines tracker, task manager for students  
-  → Stack: `React`, `Firebase`, `Firestore`, `TailwindCSS`
+- Full-stack product and SaaS development
+- AI-assisted and LLM-powered applications
+- Retrieval-augmented and knowledge-grounded systems
+- Adaptive and data-driven intelligent software
+- Exploring privacy-preserving, distributed, and trustworthy AI systems
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" alt="Express" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prisma-colored.svg" width="36" alt="Prisma" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" alt="Supabase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" />
-</p>
+## Featured Projects
+
+### 🚗 AutoReady
+AI-powered SaaS for car dealerships focused on intelligent automation, listing enhancement, and dealership operations.
+
+**Highlights:** AI-assisted listing workflows, dealership automation, image and inventory handling, and operational tooling  
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL` `Supabase`
+
+### 🎓 ClassEdge LMS
+AI-assisted learning management system built for Pakistani schools and colleges, focused on retrieval-grounded educational support, adaptive learner modeling, and personalized recommendations.
+
+**Highlights:** Final Year Project Winner  
+**Stack:** `Next.js` `NestJS` `LangChain` `FAISS` `PostgreSQL` `Supabase`
+
+### 🧠 BenchMate
+Embedded voice agent for Jetson Nano with real-time speech-to-retrieval pipeline and edge-oriented AI interaction.
+
+**Stack:** `Python` `Whisper` `OpenAI` `Jetson Nano`
+
+### 🎯 UniPlanr
+Scholarship and university application planner for managing deadlines, tasks, and academic workflows.
+
+**Stack:** `React` `Firebase` `Firestore` `TailwindCSS`
+
+---
+
+## Research & Technical Interests
+
+- Artificial Intelligence
+- Machine Learning
+- LLM Applications
+- Retrieval-Augmented Generation
+- Adaptive Intelligent Systems
+- Federated Learning
+- Edge AI
+- Privacy-Preserving AI
+- Intelligent Software Systems
+- AI for Education
+
+---
+
+## Current Direction
+
+I’m currently focused on building practical AI systems while strengthening my foundations in **data science**, **machine learning**, and **distributed intelligent systems**. Long term, I want to contribute to work around **adaptive AI**, **privacy-aware systems**, **federated learning**, and **real-world trustworthy AI deployment**.
+
+---
+
+## Highlights
+
+- 🏆 **1st Prize — CUI CS Department FYP Competition 2025**
+- 💼 Built and delivered multiple real-world client and product systems
+- 👨‍💻 Working across full-stack engineering, AI integration, and intelligent software
+- 📚 Actively growing toward deeper research in AI, ML, and privacy-preserving systems
 
 ---
 
